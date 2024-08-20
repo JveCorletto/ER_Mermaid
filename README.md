@@ -1,6 +1,30 @@
-# Getting Started with Create React App
+# Herramientas necesarias para correr ER_Mermaid
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### MongoDB Compass
+
+Descargalo en [Mongo Download Center](https://www.mongodb.com/try/download/compass)
+
+### Node.JS
+
+Descargalo en https://nodejs.org/en/download/package-manager/current
+
+
+
+
+## Inicio de Back-End
+
+Primero, se debe acceder a la carpeta del BackEnd `cd backend`\
+Luego si el repositorio está recién clonado se deberán instalar las dependencias con el comando `npm install`\
+Luego, inicia el BackEnd con el comando `node index.js`
+
+## Inicio de Front-End
+
+Primero, se debe acceder a la carpeta del FrontEnd `cd er-diagram-tool`\
+Luego si el repositorio está recién clonado se deberán instalar las dependencias con el comando `npm install`\
+Luego, inicia el BackEnd con el comando `npm start`
+
+
+
 
 ## Available Scripts
 
